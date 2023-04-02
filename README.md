@@ -9,3 +9,4 @@
 ## Решение:
 
 Блок-схема алгоритма
+![shema](https://user-images.githubusercontent.com/122803425/229359679-84bf05bb-eace-4f20-9c99-19b04f26605f.png)
